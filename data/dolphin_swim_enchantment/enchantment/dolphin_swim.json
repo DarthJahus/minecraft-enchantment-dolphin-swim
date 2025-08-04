@@ -29,9 +29,7 @@
                 "movement_affected_by": {
                   "fluid": {
                     "fluids": [
-                      "minecraft:flowing_lava",
                       "minecraft:flowing_water",
-                      "minecraft:lava",
                       "minecraft:water"
                     ]
                   }
